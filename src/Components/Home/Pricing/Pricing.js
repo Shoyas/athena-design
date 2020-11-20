@@ -4,7 +4,7 @@ import './Pricing.css';
 const Pricing = () => {
     return (
        <>
-        <section id="pricing" className="pricing-container">
+        <section id="pricing" className="pricing-container container-fluid">
             <h2 className="section-title mb-5 text-center">Choose Your Dedicated Team</h2>
             <div className="row">
                 <div className="col-md-4 p-5">

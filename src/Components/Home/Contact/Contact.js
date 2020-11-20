@@ -38,7 +38,7 @@ const Contact = () => {
                         </div>
 
                     </div>
-                    <div className="col-md-8">
+                    <div className="col-md-8 container-fluid">
                         <div className="row">
                             <div className="col-md-4">
                                 <ul className="footer-item">
